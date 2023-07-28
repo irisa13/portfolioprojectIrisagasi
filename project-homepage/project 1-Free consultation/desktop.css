@@ -1,0 +1,376 @@
+header {
+  margin: auto;
+  overflow-x: hidden;
+}
+
+.advice,
+.whatsapp {
+  max-width: 100%;
+}
+.top-bar {
+  position: absolute;
+  top: 0;
+  margin-left: 55px;
+  width: 20px;
+  height: 20px;
+  background-color: #d41212;
+}
+.free {
+  color: #fdbd03;
+  font-size: 70px;
+  margin: 50px;
+  text-align: center;
+  font-family: "Heebo", sans-serif;
+  top: 338px;
+  white-space: nowrap;
+}
+.free2 {
+  margin: auto;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #020253;
+  opacity: 1;
+}
+
+/* .presentation {
+  margin: 80px;
+  margin-left: 250px;
+} */
+
+.advice {
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 100px;
+  max-width: 300px;
+  position: relative;
+  top: -20px;
+  width: 100px;
+  height: 150px;
+}
+
+/* .content {
+  padding-top: 70px;
+  padding-bottom: 200px;
+  position: relative;
+  max-width: 400px;
+  margin: auto;
+  align-items: center;
+} */
+
+body {
+  overflow-x: hidden;
+  /*  margin: auto; */
+  /* padding: 0; */
+}
+
+.bottom-bar {
+  position: absolute;
+  margin-right: 20px;
+  width: 80%;
+  height: 20px;
+  background-color: #fdbd03;
+  margin-bottom: 0;
+}
+.advices {
+  width: 180px;
+  height: 220px;
+  margin: 100px;
+}
+
+.form-container {
+  position: absolute;
+  top: 58%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20px;
+  height: 50px;
+  opacity: 1;
+  margin: auto;
+}
+
+.form-input {
+  position: absolute;
+  top: 130px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  background: #e5eeff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.form-label {
+  position: absolute;
+  top: 95px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  opacity: 1;
+  text-align: right;
+}
+
+.form-input2 {
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  background: #e5eeff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.form-label2 {
+  position: absolute;
+  top: 180px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  opacity: 1;
+  text-align: right;
+}
+
+.form-input3 {
+  position: absolute;
+  top: 280px;
+  left: 50px;
+  width: 300px;
+  height: 150px;
+  background: #e5eeff 0% 0% no-repeat padding-box;
+  opacity: 1.5;
+}
+
+.form-label3 {
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  opacity: 1;
+  text-align: right;
+}
+
+.form-submit {
+  position: absolute;
+  top: 420px;
+  left: 50px;
+  width: 307px;
+  height: 40px;
+  background: #fdbd03;
+  color: black;
+  opacity: 1;
+  margin-bottom: 0;
+  position: relative;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  overflow-x: hidden;
+}
+.facebook,
+.email,
+.phone,
+.whatsapp {
+  border-radius: 50%;
+  border: 13px solid #fdbd03;
+  margin: 10px;
+  background: #fdbd03 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 2;
+  height: 20px;
+  width: 20px;
+}
+.box {
+  margin-bottom: 0;
+}
+
+header {
+  margin: auto;
+  overflow-x: hidden;
+}
+
+.advice,
+.whatsapp {
+  max-width: 100%;
+}
+.free {
+  margin: auto;
+  color: #fdbd03;
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.free2 {
+  margin: auto;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #020253;
+  opacity: 1;
+}
+
+/* .presentation {
+  margin: 80px;
+  margin-left: 250px;
+} */
+
+.title {
+  color: #fdbd03;
+  font-size: 70px;
+  margin: 50px;
+  text-align: center;
+  font-family: "Heebo", sans-serif;
+  top: 338px;
+  white-space: nowrap;
+}
+.advice {
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 100px;
+  max-width: 300px;
+  position: relative;
+  top: -20px;
+  width: 100px;
+  height: 150px;
+}
+
+.content {
+  padding-top: 70px;
+  padding-bottom: 200px;
+  position: relative;
+  max-width: 400px;
+  margin: auto;
+  align-items: center;
+}
+
+body {
+  overflow-x: hidden;
+  margin: auto;
+  padding: 0;
+}
+
+.top-bar {
+  position: absolute;
+  top: 0;
+  margin-left: 55px;
+  width: 300px;
+  height: 20px;
+  background-color: #fdbd03;
+}
+
+.advices {
+  width: 180px;
+  height: 220px;
+  margin: 100px;
+}
+
+.form-container {
+  position: absolute;
+  top: 58%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20px;
+  height: 50px;
+  opacity: 1;
+  margin: auto;
+}
+
+.form-input {
+  position: absolute;
+  top: 130px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  background: #e5eeff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.form-label {
+  position: absolute;
+  top: 95px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  opacity: 1;
+  text-align: right;
+}
+
+.form-input2 {
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  background: #e5eeff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.form-label2 {
+  position: absolute;
+  top: 180px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  opacity: 1;
+  text-align: right;
+}
+
+.form-input3 {
+  position: absolute;
+  top: 280px;
+  left: 50px;
+  width: 300px;
+  height: 150px;
+  background: #e5eeff 0% 0% no-repeat padding-box;
+  opacity: 1.5;
+}
+
+.form-label3 {
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  width: 300px;
+  height: 40px;
+  opacity: 1;
+  text-align: right;
+}
+
+.form-submit {
+  position: absolute;
+  top: 420px;
+  left: 50px;
+  width: 307px;
+  height: 40px;
+  background: #fdbd03;
+  color: black;
+  opacity: 1;
+  margin-bottom: 0;
+  position: relative;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  overflow-x: hidden;
+}
+.facebook,
+.email,
+.phone,
+.whatsapp {
+  border-radius: 50%;
+  border: 13px solid #fdbd03;
+  margin: 8px;
+  background: #fdbd03 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1.5;
+}
+.bottom-bar {
+  position: absolute;
+  margin-right: 20px;
+  width: 40%;
+  height: 20px;
+  background-color: #fdbd03;
+  margin-bottom: 0;
+}
